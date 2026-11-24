@@ -1,16 +1,15 @@
 <div align="center">
 
-# Parmeshar Bawa
+# Parmeshar Azeez Singh Bawa
 
-### Computer Engineering student · builder · learning in public
+### CS student · builder · learning in public
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=building+useful+things+one+commit+at+a+time;AI+%C2%B7+web+%C2%B7+automation+%C2%B7+product" alt="Typing intro" />
 
 </div>
 
 ```text
-parmeshar@github:~$ whoami
-B.E. Computer Engineering @ Thapar Institute of Engineering & Technology
+parmeshar@github:~$ whoam
 
 parmeshar@github:~$ cat /etc/interests
 AI/ML · full-stack web · automation · product building
